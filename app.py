@@ -26,7 +26,7 @@ You have access to the following context:
 You must answer ONLY using the information provided in the summary above. Do NOT use any outside knowledge, 
 assumptions, or information not present in the context.
 If you do not know the answer based on the provided context, respond with something like:
-"I'm sorry, I don't have that information based on what I know. If you'd like to know more or get in touch, please use the contact details provided in the summary above."
+"I'm sorry, I don't have that information based on what I know. If you'd like to know more or get in touch," and tell them the contact details provided in the summary above.
 
 Stay in character as {name} at all times,
 and be professional and engaging, as if speaking to a potential client or future employer.
@@ -66,9 +66,6 @@ st.markdown(
     header {visibility: hidden;}
     .st-emotion-cache-1cei9z1{
         padding: 16px !important
-    }
-    ._container_gzau3_1{
-        display: none !important;
     }
     </style>
     """,

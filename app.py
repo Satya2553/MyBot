@@ -60,7 +60,7 @@ def get_bot_response(message, history):
     return response.choices[0].message.content
 
 # Streamlit UI
-st.set_page_config(page_title="Satyanarayana Mareedu", layout="centered")
+st.set_page_config(page_title="Satyanarayana Mareedu", layout="centered",page_icon="👨‍💻")
 st.title("Hii 👋")
 
 

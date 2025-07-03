@@ -67,6 +67,9 @@ st.markdown(
     .st-emotion-cache-1cei9z1{
         padding: 16px !important
     }
+    ._container_gzau3_1{
+        display: none !important;
+    }
     </style>
     """,
     unsafe_allow_html=True

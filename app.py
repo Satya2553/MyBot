@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 
 load_dotenv(override=True)
 
-# Read summary
 with open("summary.txt", "r", encoding="utf-8") as f:
     summary = f.read()
 
@@ -41,14 +40,12 @@ welcome_message = (
     "I'm here to help you learn more about me! 🚀"
 )
 
-# Initialize Gemini/OpenAI client
 gemini = OpenAI(
     api_key=os.getenv("GEMINI_API_KEY"), 
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 
 def get_bot_response(message, history):
-    # Build messages for API
     messages = [{"role": "system", "content": system_prompt}]
     for entry in history:
         if entry["role"] == "user":
@@ -59,7 +56,6 @@ def get_bot_response(message, history):
     response = gemini.beta.chat.completions.parse(model="gemini-2.0-flash", messages=messages)
     return response.choices[0].message.content
 
-# Streamlit UI
 st.set_page_config(page_title="Satyanarayana Mareedu", layout="centered",page_icon="👨‍💻")
 st.title("Hii 👋")
 
@@ -73,26 +69,21 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Session state for chat history
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = [
         {"role": "assistant", "content": welcome_message}
     ]
 
-# Display chat history
 for entry in st.session_state.chat_history:
     with st.chat_message(entry["role"]):
         st.markdown(entry["content"])
 
-# User input
 user_input = st.chat_input("Type your message here...")
 
 if user_input:
-    # Add user message to history
     st.session_state.chat_history.append({"role": "user", "content": user_input})
     with st.chat_message("user"):
         st.markdown(user_input)
-    # Get bot response
     with st.spinner("Satyanarayana is typing..."):
         bot_response = get_bot_response(user_input, st.session_state.chat_history[:-1])
     st.session_state.chat_history.append({"role": "assistant", "content": bot_response})

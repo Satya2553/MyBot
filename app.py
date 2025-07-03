@@ -63,7 +63,7 @@ st.title("Hii 👋")
 st.markdown(
     """
     <style>
-    header {display: none;}
+    header {visibility: hidden;}
     </style>
     """,
     unsafe_allow_html=True

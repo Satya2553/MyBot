@@ -1,0 +1,274 @@
+SATYANARAYANA MAREEDU
+
+📧 mareedu.satyanarayana.5475@gmail.com
+📞 +91-8919502589
+🌐 GitHub  -- github.com/Satya2553
+🌐 LinkedIn -- linkedin.com/in/mareedu-satyanarayana
+
+
+---
+
+EDUCATION
+
+B.TECH IN CSE, JNTU GV College of Engineering
+🗓 2020 - 2024
+CGPA: 8.05
+
+CLASS XII, Vignan Co-Op Junior College
+🗓 2018 - 2020
+CGPA: 9.94
+
+CLASS X, St. Ann’s (EM) High School
+🗓 2017 - 2018
+CGPA: 9.8
+
+
+
+---
+
+SKILLS
+
+Programming Languages: Python, C/C++, Java
+
+Web Technologies: HTML, CSS, Bootstrap, JavaScript, ReactJS, NodeJS, Django, PHP
+
+Mobile App Development: React Native
+
+Other Skills: Git, MySQL, Machine Learning, Docker, DBMS, Generative AI
+
+
+
+---
+
+PROFESSIONAL EXPERIENCE
+
+TATA CONSULTING SERVICES – SYSTEMS ENGINEER
+
+📍 Hyderabad, Telangana, India
+🗓 Feb 2025 – Present
+
+Trained in Machine Learning and Generative AI, with hands-on experience in transformer architectures and Large Language Models (LLMs).
+
+Worked on fine-tuning pre-trained LLMs for domain-specific tasks, optimizing performance and relevance.
+
+Implemented AI testing pipelines to evaluate model accuracy, robustness, and ethical alignment.
+
+Gained practical knowledge in prompt engineering, data preprocessing, and evaluation techniques for generative models.
+
+Familiar with tools and frameworks such as Hugging Face Transformers, TensorFlow, PyTorch, and LangChain.
+
+
+GA DIGITAL SOLUTIONS – JUNIOR SOFTWARE DEVELOPER
+
+📍 Hyderabad, Telangana, India
+🗓 Feb 2024 – Feb 2025
+
+Project: GA Org Sync
+
+Technologies: ReactJS, Django, RESTful API, PostgreSQL, GitHub
+Responsibilities:
+
+Designed a comprehensive Human Resources and Payroll Management System.
+
+Automated payroll processing, attendance tracking, leave management, grievance management, and in-app messaging.
+
+Reduced administrative burden, ensured compliance with labor laws, and improved data accuracy.
+
+
+Project: GA Hire Sync
+
+Technologies: ReactJS, Django, RESTful API, PostgreSQL, GitHub
+Responsibilities:
+
+Developed a recruitment management and tracking system to manage application statuses.
+
+Implemented features for resume submissions and client shortlisting.
+
+Designed functionality for managers to assign recruiters for client requirements.
+
+Enhanced operational flow by streamlining communication between agencies and clients.
+
+
+Project: SHEagle Trading
+
+Technologies: ReactJS, Django, MySQL, GitHub
+Responsibilities:
+
+Developed a multi-vendor e-commerce platform supporting global operations.
+
+Designed user-friendly vendor dashboards for product management and sales tracking.
+
+Integrated secure payment gateways and partnered with international shipment providers.
+
+
+Project: CNDU Fabrics
+
+Technologies: ReactJS, Django, MySQL, GitHub
+Responsibilities:
+
+Built an e-commerce platform tailored for an individual seller specializing in premium fabrics.
+
+Developed a smooth checkout process with secure payment gateway integration.
+
+Partnered with leading shipment providers for efficient order delivery.
+
+
+Project: Story Land Library
+
+Technologies: Django, ReactJS, RESTful API, MySQL, GitHub
+Responsibilities:
+
+Created an e-commerce web application for book rentals.
+
+Implemented user account management and book cataloging features.
+
+Developed a rental processing system with integrated payment gateways.
+
+Ensured a responsive design for seamless browsing on various devices.
+
+
+Project: Jai Siya Ram Matrimony
+
+Technologies: ReactJS, Django, RESTful API, MySQL, GitHub
+Responsibilities:
+
+Built an online matrimony site to help individuals find suitable life partners, focusing on user-friendly design and functionality.
+
+Engaged in extensive debugging to ensure a seamless user experience, addressing and resolving issues promptly.
+
+Added additional features by manipulating the database to enhance user profiles and improve search functionalities, allowing users to find matches more effectively.
+
+Integrated secure payment gateways to facilitate transactions for premium services, ensuring safe and efficient payment processing for users.
+
+
+Project: Inno Bills
+
+Technologies: ReactJS, Django, RESTful API, MySQL, GitHub
+Responsibilities:
+
+Developed a secure document vault application similar to DigiLocker.
+
+Implemented user functionalities for uploading, storing, and securely accessing documents with robust encryption.
+
+
+Project: 3 Realms Entertainment
+
+Technologies: Django, MySQL, GitHub
+Responsibilities:
+
+Created a dynamic web platform for movie distributors to showcase films.
+
+Developed features allowing users to view movie details, trailers, show times, and book tickets.
+
+Implemented support for multiple theaters and locations, and real-time updates.
+
+Streamlined the ticket booking process, enhancing accessibility for customers.
+
+
+
+---
+
+PROJECTS
+
+AI BASED IT TRAINING SYSTEM — Smart India Hackathon
+
+Technologies: AI, Python, Machine Learning
+Responsibilities:
+
+Implemented an AI-driven IT Training System as part of the Smart India Hackathon, a national-level competition.
+
+Developed a system that dynamically generates personalized course content based on student knowledge levels.
+
+Achieved 90% accuracy in personalized content delivery.
+🔗 Walkthrough Link: YouTube Video : https://youtu.be/7FYU756RkEE
+
+
+STUDENT INFORMATION SYSTEM
+
+Technologies: Django, ReactJS, MySQL
+Responsibilities:
+
+Developed a student profile management system encompassing work experiences, projects, activities, skills, and more.
+
+Created a customizable admin portal designed for Heads of Departments to add and retrieve student data.
+🔗 Walkthrough Link: YouTube Video : https://youtu.be/V2xuYHr4sYk
+
+
+UNIVERSITY EXAMINATION SECTION AUTOMATION
+
+Technologies: Python, Django
+Responsibilities:
+
+Developed a Code Slip Generator and Marks Entry System that automated serial number generation and reduced the error rate in marks entry by 80%, ensuring accurate record keeping.
+
+Created a Results Management System enabling users to access and download individual or entire college mark sheets based on college names.
+
+Designed a bulk Hall Ticket Generator using Python script.
+
+
+MASCCA — A MultiModal AI System For Comprehensive Confidence Assessment
+
+Technologies: AI, Python, Machine Learning, ReactJS
+Responsibilities:
+
+Developed MASCCA, a robust framework for confidence estimation with potential applications in education, recruitment, and personal development.
+
+Incorporated time-based questioning, speech text relevance, and question correctness analysis to enhance its ability to uncover genuine confidence.
+
+Achieved a remarkable RMSE of 9.32 and an average F1-score of 0.82, signifying the system’s efficacy in detecting genuine confidence estimation.
+
+
+StayVin
+
+Technologies: React Native, Django
+Responsibilities:
+
+Developed a mobile application that is user-friendly and convenient for Android and iOS platforms.
+
+Designed functionalities to efficiently manage tenants, including detailed profiles, payment tracking, and maintaining a comprehensive dues history.
+
+Implemented features for managing overall expenses related to the accommodation.
+
+Incorporated a robust system for sending automated payment reminders to tenants via push notifications.
+
+
+
+---
+
+COURSES / CERTIFICATIONS
+
+Python Essentials 1 (CISCO)
+
+Foundations of User Experience (UX) Design – Google (Coursera)
+
+Crash Course on Python – Google (Coursera)
+
+Machine Learning Foundations – AWS Training and Certification
+
+LLMs Mastery: Complete Guide to Transformers and Generative AI – Udemy
+
+Generative AI and AI Agents for Software Testing – Udemy
+
+Masterclass: Testing Machine Learning Models – Udemy
+
+Generative AI for Beginners – Udemy
+
+Machine Learning Models Testing – Udemy
+
+
+
+---
+
+INVOLVEMENTS
+
+Contributed as a resource person in the 2-day student-centric web development workshop (JNTU-GV).
+
+Technical support coordinator for the InnoExpo 360 Hackathon (JNTU-GV).
+
+
+
+--
+
+AWARDS
+
+🏆 Finalists (Top 3) in Smart India Hackathon – 2023

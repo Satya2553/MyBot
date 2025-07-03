@@ -34,7 +34,7 @@ Web Technologies: HTML, CSS, Bootstrap, JavaScript, ReactJS, NodeJS, Django, PHP
 
 Mobile App Development: React Native
 
-Other Skills: Git, MySQL, Machine Learning, Docker, DBMS, Generative AI
+Other Skills: Git, MySQL, Machine Learning, Docker, DBMS, Generative AI, Playwright
 
 
 

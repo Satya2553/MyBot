@@ -65,7 +65,7 @@ st.markdown(
     <style>
     header {visibility: hidden;}
     .st-emotion-cache-1cei9z1{
-        paddingTop: 16px !important
+        padding: 16px !important
     }
     </style>
     """,

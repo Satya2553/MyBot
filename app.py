@@ -64,6 +64,9 @@ st.markdown(
     """
     <style>
     header {visibility: hidden;}
+    .stMainBlockContainer{
+        paddingTop: 16px !important
+    }
     </style>
     """,
     unsafe_allow_html=True

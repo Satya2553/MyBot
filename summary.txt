@@ -126,21 +126,6 @@ Developed a rental processing system with integrated payment gateways.
 
 Ensured a responsive design for seamless browsing on various devices.
 
-
-Project: Jai Siya Ram Matrimony
-
-Technologies: ReactJS, Django, RESTful API, MySQL, GitHub
-Responsibilities:
-
-Built an online matrimony site to help individuals find suitable life partners, focusing on user-friendly design and functionality.
-
-Engaged in extensive debugging to ensure a seamless user experience, addressing and resolving issues promptly.
-
-Added additional features by manipulating the database to enhance user profiles and improve search functionalities, allowing users to find matches more effectively.
-
-Integrated secure payment gateways to facilitate transactions for premium services, ensuring safe and efficient payment processing for users.
-
-
 Project: Inno Bills
 
 Technologies: ReactJS, Django, RESTful API, MySQL, GitHub
